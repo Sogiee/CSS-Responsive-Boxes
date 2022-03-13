@@ -30,6 +30,6 @@ body {
     width: 100%;
   }
   .b, .c, .a {
-    margin: 1em;
+    margin: .5em;
   }
 }
